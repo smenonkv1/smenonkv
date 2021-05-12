@@ -4,7 +4,7 @@ echo 'Enter the score'
 
 read x
 
-if [[ $x -ge 90 ]];
+if [[ $x -eq 100 ]];
 then
   echo “You have won the First Prize”
 
