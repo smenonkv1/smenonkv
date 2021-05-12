@@ -16,5 +16,5 @@ elif [[ $x -ge 30 ]];
 then 
   echo “You have won the third Prize”
 else
-  echo “Please try again”
+  echo “You have failed!”
 fi
